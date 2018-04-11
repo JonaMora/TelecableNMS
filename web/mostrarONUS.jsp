@@ -92,6 +92,7 @@
                         <th width="130" style="font-weight: bold;">RATE</th>
                     </tr>
                 </thead>
+                <h1>Hola este cambio lo realizo montse</h1>
                 <tbody>
                     <%                        try {
                             try (ApiConnection con = ApiConnection.connect("192.168.13.215") // connect to router
