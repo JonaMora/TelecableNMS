@@ -1,0 +1,56 @@
+footer{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    margin-top: 20px;
+    background: #A4A4A4;
+}
+.foot{
+    width: 80%;
+    height: 60px;
+    margin:auto;
+}
+
+.footer1{
+    width:50%;
+    height: 60px;
+    float:left;
+    box-sizing: border-box;
+    padding-top: 10px;
+
+
+}
+
+.footer1 img{
+    float:left;
+    width: 45px; 
+    height: 45px;
+    padding-right: 10px;
+}
+.footer2{
+    width:50%;
+    height: 60px;
+    float:left;
+    box-sizing: border-box;
+    padding-top: 15px;
+}
+.footer2 img{
+    float:right;
+    width: 30px; 
+    height: 30px;
+    padding-right: 10px;
+}
+
+.foot p{
+    font-family: krona;
+    font-size: 10px;
+    color:#333;
+    padding-top: 5px;
+}
+
+.foot #reloj {
+    font-family: krona;
+    font-size: 10px;
+    color:#333;
+    padding-top: 5px;
+}

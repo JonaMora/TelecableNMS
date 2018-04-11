@@ -1,0 +1,24 @@
+#selects {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+#selects .select_olt {
+    margin-left: 70px;
+}
+#selects .select_servicio {
+    margin-left:70px;
+}
+#selects img{
+    width: 27px;
+    height: 27px;
+    vertical-align: middle;
+}
+
+#selects .select__ops {
+    width: 180px;
+    padding:3px 6px;
+    background: #74DF00;
+    color: #196F3D;
+    font-weight: bold;
+}
